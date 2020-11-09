@@ -1,4 +1,4 @@
-# CompanyAttrition
+# Predicting Company Attrition of Companies
 A data cleaning and Machine learning project.
 The objectives of the project was to :
 What types of Employee are leaving?
