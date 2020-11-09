@@ -15,4 +15,4 @@ Satisfaction level, Last Evaluation, Number of Projects, Average Monthly hours, 
 
 The algorithm used are Logistic Regression and Naive bayes 
 
-Attached is the Python code and the VIZ for dashboard view of the data.
+
